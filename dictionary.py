@@ -8,4 +8,4 @@ passwd['Mark']=passwd['Mark']+1
 print passwd
 print passwd.keys()
 print passwd.get('Tony')
-~                          
+print passwd.get('Mark')
